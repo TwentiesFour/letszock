@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Let's zock! by TwentiesFour</title>
+        <link>https://www.letszock.com/</link>
+        <description>Weekly updates of new video games and unique artwork.</description>
+        <language>en</language>
+        
+        <image>
+            <url>https://letszock.com/img/logo-trans.png</url>
+            <title>Let's zock! by TwentiesFour</title>
+            <link>https://www.letszock.de/</link>
+        </image>
+
+        <item>
+            <title>New video games from week 5 of 2023</title>
+            <description>Weekly updates of new video games and unique artwork.</description>
+            <link>https://letszock.com/post/week5</link>
+            <pubDate>Fri, 27 Jan 2023 01:00:00 +0100</pubDate>
+            <dc:creator>TwentiesFour</dc:creator>
+        </item>
+
+        <item>
+            <title>New video games from week 4 of 2023!</title>
+            <description>Weekly updates of new video games and unique artwork.</description>
+            <link>https://letszock.com/post/week4</link>
+            <pubDate>Fri, 19 Jan 2023 19:00:00 +0100</pubDate>
+            <dc:creator>TwentiesFour</dc:creator>
+        </item>
+
+        <item>
+            <title>New video games from week 3 of 2023!</title>
+            <description>Weekly updates of new video games and unique artwork.</description>
+            <link>https://letszock.com/post/week3</link>
+            <pubDate>Wed, 18 Jan 2023 21:30:00 +0100</pubDate>
+            <dc:creator>TwentiesFour</dc:creator>
+        </item>
+
+        <item>
+            <title>New video games from week 2 of 2023!</title>
+            <description>Weekly updates of new video games and unique artwork.</description>
+            <link>https://letszock.com/post/week2</link>
+            <pubDate>Wed, 18 Jan 2023 19:30:00 +0100</pubDate>
+            <dc:creator>TwentiesFour</dc:creator>
+        </item>
+
+    </channel>
+
+</rss>

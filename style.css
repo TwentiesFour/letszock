@@ -1,0 +1,250 @@
+:root {
+    --background-color: #000000; 
+    --text-color: rgb(184, 184, 184); 
+    --mainBG-color: #1a1919c7;
+    --border-color:rgb(104, 104, 104); 
+    --navBG-color: #000000d7; 
+    --footer-color: #6e6e6e;
+    --button-color: rgba(34, 34, 34, 0.897);
+}
+
+.dark_mode {
+    --background-color: rgb(184, 184, 184); 
+    --text-color: black; 
+    --mainBG-color: #7e7e7ec7;
+    --border-color:rgb(44, 44, 44); 
+    --navBG-color: #424242d7; 
+    --footer-color: #303030;
+    --button-color: rgba(94, 94, 94, 0.897);
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    color: var(--text-color); 
+    background-color: var(--background-color);
+    font-size: 18px;
+    margin-left: 5%; 
+    margin-right: 5%;  
+}
+
+main {
+    border: 2px solid var(--border-color); 
+    border-radius: 20px;
+    background-color: var(--mainBG-color); 
+    padding: 10px; 
+}
+
+nav {
+    padding: 1px;
+    text-align: center; 
+    border: 2px solid var(--border-color); 
+    border-radius: 10px; position: fixed; 
+    background-color: var(--navBG-color); 
+    top: 0;width: 90%; 
+    z-index: 999;
+}
+
+header{ 
+    margin: 0%; 
+    text-align: center; 
+}
+
+footer {
+    padding: 0px; 
+    color: var(--footer-color);
+}
+
+blockquote {
+    border-left: 2px solid var(--border-color); 
+    padding-left: 2%;}
+
+hr {
+    border-width: 1px; 
+    border-color: var(--border-color);
+    margin-left: 10% ;
+    margin-right: 70%;
+}
+
+a:link {
+    text-decoration: 
+    none;color: var(--text-color);
+}
+
+a:visited {
+    text-decoration: none; 
+    color: var(--text-color);
+}
+
+a:hover {
+    color: var(--border-color);
+    text-decoration: none;
+}
+
+button { 
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    box-shadow: 0 0 10px black; 
+    border:1px solid black;
+    border-radius:10px; 
+    background-color: var(--button-color); 
+    margin: 5px; 
+    color: var(--text-color);
+    font-size: 24px; 
+}
+    
+/*--------Bilder--------*/
+
+#logo {
+    width: 150px ; 
+    margin: auto;
+    display: block; 
+}
+
+#artwork {
+    width: 300px ;
+    padding: 10px; 
+    border-radius: 20px; 
+    border: 2px solid var(--border-color);
+}
+
+#social { 
+    padding-inline: 10px; 
+    width: 35px;
+    border-radius: 100%; 
+    float: right; 
+    margin-bottom: 2%;
+}
+
+.darkmodeimg {
+    padding: 7px; 
+    width: 45px;
+    border-radius: 100%; 
+    float: right;
+}
+
+.social { 
+    padding-inline: 10px; 
+    width: 35px;
+    border-radius: 100%; 
+    float: right; 
+    margin-bottom: 2%;
+}
+
+/*--------Boxen--------*/
+
+#box { 
+    padding: 5px;
+    border:1px solid var(--border-color);
+    border-radius:10px; 
+    margin-inline: 10px;
+}
+
+/*--------Dropdown--------*/
+
+.dropbtn {
+    font-size: 24px; 
+    padding: 10px;
+    box-shadow: 0 0 10px #000; 
+    border:1px solid black;
+    border-radius:10px; 
+    background-color: var(--button-color); 
+    margin: 5px;color: var(--text-color);
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block; 
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--button-color);
+    min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1; 
+    border-radius: 7%;
+    border: 1px solid black; 
+}
+
+.dropdown-content a {
+    padding: 10px;
+    text-decoration: none;
+    display: block; 
+    font-size: 18px;
+
+}
+
+.dropdown-content a:hover { 
+    color: var(--border-color); 
+    border-radius: 6%; 
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+} 
+
+.dropdown:hover .dropbtn {
+    color: var(--border-color)
+}
+
+/*--------Textausrichtung--------*/
+
+.center { 
+    text-align: center;
+}
+
+.justify { 
+    text-align: justify;
+}
+
+.right {
+    text-align: right;
+}
+
+/*--------Home-Bilder--------*/
+
+.post-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+
+.post {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    cursor: pointer;
+}
+
+.post:hover .post-s {
+    width: 300px;
+}
+
+.post img {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.post-s {
+    width: 0px;
+    height: 300px;
+    background: var(--mainBG-color);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: 0.5s ease;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.post-s h2 {color:var(--text-color);
+    font-size: 30px;
+    border: 3px solid var(--text-color);
+    padding: 10px 30px;
+}
