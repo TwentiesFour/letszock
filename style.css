@@ -115,10 +115,10 @@ button {
     margin-bottom: 2%;
 }
 
-.darkmodeimg {
+.lang {
     padding: 7px; 
     width: 45px;
-    border-radius: 100%; 
+    border-radius: 10px; 
     float: right;
 }
 
