@@ -1,14 +1,4 @@
 :root {
-    --background-color: #000000; 
-    --text-color: rgb(184, 184, 184); 
-    --mainBG-color: #1a1919c7;
-    --border-color:rgb(104, 104, 104); 
-    --navBG-color: #000000d7; 
-    --footer-color: #6e6e6e;
-    --button-color: rgba(34, 34, 34, 0.897);
-}
-
-.dark_mode {
     --background-color: rgb(184, 184, 184); 
     --text-color: black; 
     --mainBG-color: #7e7e7ec7;
@@ -16,6 +6,16 @@
     --navBG-color: #424242d7; 
     --footer-color: #303030;
     --button-color: rgba(94, 94, 94, 0.897);
+}
+
+.dark_mode {
+    --background-color: #000000; 
+    --text-color: rgb(184, 184, 184); 
+    --mainBG-color: #1a1919c7;
+    --border-color:rgb(104, 104, 104); 
+    --navBG-color: #000000d7; 
+    --footer-color: #6e6e6e;
+    --button-color: rgba(34, 34, 34, 0.897);
 }
 
 body {
@@ -26,7 +26,25 @@ body {
     margin-left: 5%; 
     margin-right: 5%;  
 }
+body.light {
+    --background-color: rgb(184, 184, 184); 
+    --text-color: black; 
+    --mainBG-color: #7e7e7ec7;
+    --border-color:rgb(44, 44, 44); 
+    --navBG-color: #424242d7; 
+    --footer-color: #303030;
+    --button-color: rgba(94, 94, 94, 0.897);
+}
 
+body.dark {
+    --background-color: #000000; 
+    --text-color: rgb(184, 184, 184); 
+    --mainBG-color: #1a1919c7;
+    --border-color:rgb(104, 104, 104); 
+    --navBG-color: #000000d7; 
+    --footer-color: #6e6e6e;
+    --button-color: rgba(34, 34, 34, 0.897);
+}
 main {
     border: 2px solid var(--border-color); 
     border-radius: 20px;
