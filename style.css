@@ -1,14 +1,4 @@
 :root {
-    --background-color: rgb(184, 184, 184); 
-    --text-color: black; 
-    --mainBG-color: #7e7e7ec7;
-    --border-color:rgb(44, 44, 44); 
-    --navBG-color: #424242d7; 
-    --footer-color: #303030;
-    --button-color: rgba(94, 94, 94, 0.897);
-}
-
-.dark_mode {
     --background-color: #000000; 
     --text-color: rgb(184, 184, 184); 
     --mainBG-color: #1a1919c7;
