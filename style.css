@@ -17,7 +17,7 @@ body {
     margin-right: 5%;  
 }
 body.light {
-    --background-color: rgb(184, 184, 184); 
+    --background-color: #b8b8b8; 
     --text-color: black; 
     --mainBG-color: #7e7e7ec7;
     --border-color:rgb(44, 44, 44); 
