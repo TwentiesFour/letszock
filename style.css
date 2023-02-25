@@ -17,7 +17,7 @@ body {
     margin-right: 5%;  
 }
 body.light {
-    --background-color: #b8b8b8; 
+    --background-color: rgb(184, 184, 184); 
     --text-color: black; 
     --mainBG-color: #7e7e7ec7;
     --border-color:rgb(44, 44, 44); 
@@ -155,7 +155,7 @@ button {
     border-radius: 10px;
 }
 
-@media (max-width: 790px) {
+@media (max-width: 480px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
@@ -194,6 +194,7 @@ button {
     margin: auto;
     display: block;
     padding: 5px; 
+    border-radius: 20px;
 }
 
 #artwork {
