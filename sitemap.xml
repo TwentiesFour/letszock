@@ -1,108 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
        <loc>https://letszock.com/</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <lastmod>2023-02-25T19:37:30+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://letszock.com/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <lastmod>2023-02-25T19:37:30+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://letszock.com/aboutme/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/futuristic/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/world/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/setup/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/dwarf/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/animals/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/pirates/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/cars/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/forest/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/houses/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/spacecat/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/logos/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/caravan/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/noface/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/city/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/soldiers/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/castle/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/sports/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/house/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/artworks/womans/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/wizard/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/february/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/campfire/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
   </url>
   <url>
-       <loc>https://letszock.com/post/january/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <loc>https://letszock.com/artwork/coach/index.html</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/game/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
   </url>
   <url>
        <loc>https://letszock.com/imprint/index.html</loc>
-       <lastmod>2023-01-29T19:43:41+00:00</lastmod>
+       <lastmod>2023-02-25T19:37:30+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/castle/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/campfire/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/coach/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/aboutme/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/world/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/dwarf/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/forest/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/spacecat/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/caravan/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/city/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/house/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/artwork/wizard/</loc>
+       <lastmod>2023-02-25T19:37:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://letszock.com/imprint/</loc>
+       <lastmod>2023-02-25T19:37:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
 </urlset>
